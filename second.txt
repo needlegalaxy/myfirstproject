@@ -2,4 +2,3 @@ This is the second text file. Updated.
 Updated again
 
 This is a test
-This line should not be committed
