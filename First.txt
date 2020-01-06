@@ -3,5 +3,3 @@ Updated.
 Updated again.
 
 This is a test
-
-This line should be committed
